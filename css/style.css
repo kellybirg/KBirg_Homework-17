@@ -1,0 +1,122 @@
+.logo {
+  padding-left: 20px;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+
+header {
+  background-color:FFFFFF;
+  padding: 25px;
+}
+
+header ul {
+  float: right;
+  color: #1d1d1d;
+  font-family: roboto, sans-serif;
+  font-weight: 800;
+  font-style: bold;
+}
+
+header li {
+  display: inline-block;
+  padding: 0px 35px;
+  vertical-align: top;
+}
+
+body {
+  margin: 0;
+  background-color: fcfcfc
+}
+
+.activeLi {
+  text-decoration-line: underline;
+}
+
+.link:hover {
+  text-decoration-line: underline;
+  cursor: pointer;
+}
+
+.content {
+  background-color: #FFFFFF;
+  text-align: center;
+}
+
+.container {
+  position: relative;
+  color: #1d1d1d;
+  font-family: roboto, sans-serif;
+  font-weight: 900;
+  font-size: xx-large;
+}
+
+.centered {
+  position: absolute;
+  top: 7%;
+  left: 61%;
+  font-size: 40px;
+  font-weight: normal;
+}
+
+.centered2 {
+  position: absolute;
+  top: 12.5%;
+  left: 58.5%;
+  font-size: 40px;
+  font-weight: normal;
+}
+
+.centered3 {
+  position: absolute;
+  top: 49%;
+  left: 42%;
+  padding-left: 6.5%;
+  padding-right: 19%;
+  font-size: 35px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.btn {
+  position: absolute;
+  top: 81.9%;
+  left: 59%;
+  background-color:#1d1d1d;
+  padding: 20px 25px;
+  font-size: 25px;
+  color: white;
+  font-family: roboto, sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  border-radius: 0px;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color: #b1004b;
+}
+
+.hrThick{
+  border: 1px solid #1d1d1d;
+}
+
+footer {
+  font-size: 16PX;
+  font-weight: 400;
+  text-align: center;
+  font-family: roboto, sans-serif;
+}
+
+footer ul {
+  padding-left: 5px;
+  padding: 15px;
+  font-weight: 400;
+
+}
+
+footer li {
+  display: inline-block;
+  padding: 0px 25px;
+  color: #1d1d1d;
+  font-family: roboto, sans-serif;
+}
